@@ -1,4 +1,8 @@
-# Login Form Demo
+# SingaporeJS Workshop 2021
+
+This project is a fork of https://github.com/tdd-workshops/tdd-lab-login-form-nodejs by @miccheng
+
+
 
 This repository contains a simple web application written in NodeJS.
 
