@@ -1,4 +1,4 @@
-# SingaporeJS Workshop 2021
+# SingaporeJS Workshop 2022
 
 This project is a fork of https://github.com/tdd-workshops/tdd-lab-login-form-nodejs by @miccheng
 
